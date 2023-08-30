@@ -36,4 +36,3 @@ if __name__ == "__main__":
     file1 = open('net.txt', 'r')
     lines = file1.readlines()
     app.run(debug=True)
-#/html/body/script[7]/text()
